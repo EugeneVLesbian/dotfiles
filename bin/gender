@@ -1,0 +1,2 @@
+#!/bin/bash
+printf "your gender is... \n$(fortune genderfile)\n" 

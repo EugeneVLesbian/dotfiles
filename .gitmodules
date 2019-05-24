@@ -1,0 +1,3 @@
+[submodule "bashfuzzyclock"]
+	path = bashfuzzyclock
+	url = https://github.com/EugeneVLesbian/dotfiles

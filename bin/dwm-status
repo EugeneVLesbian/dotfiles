@@ -1,0 +1,7 @@
+#!/bin/bash
+
+while true; do
+	xsetroot -name "[ $(cmus-status) ] [ /=$(df --output=pcent / | tail -n 1) ] [ ~/=$(df --output=pcent ~/ | tail -n 1) ] [ $(bash-fuzzy-clock)]" 
+	sleep 1
+done
+

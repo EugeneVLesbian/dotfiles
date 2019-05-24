@@ -1,0 +1,2 @@
+#!/bin/bash
+fortune dril | cowsay -W 30 | lolcat
